@@ -1,1 +1,3 @@
-
+Meine Sender,#genre#
+Kanal 1,http://stream-url-hier
+Kanal 2,http://stream-url-hier
